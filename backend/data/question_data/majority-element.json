@@ -1,0 +1,10 @@
+{
+    "title": "Majority Element",
+    "difficulty": "Medium",
+    "accuracy": "27.82%",
+    "submissions": "596K+",
+    "points": "4",
+    "problem": "<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Given an array A of N elements. Find the majority element in the array. A majority element in an array A of size N is an element that appears strictly more than N/2 times in the array.</span></span></p>\n <p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 1:</strong></span></span></p>\n <pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input:</strong>\n N = 3 \n A[] = {1,2,3} \n<strong>Output:</strong>\n -1\n <strong>Explanation:</strong>\n Since, each element in \n {1,2,3} appears only once so there \n is no majority element.</span></span></pre>\n <p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 2:</strong></span></span></p>\n <pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input:</strong>\n N = 5 \n A[] = {3,1,3,3,2} \n<strong>Output:</strong>\n 3\n <strong>Explanation:</strong>\n Since, 3 is present more\n than N/2 times, so it is \n the majority element.</span></span></pre>\n <p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Your Task:</strong><br>The task is to complete the function majorityElement() which returns the majority element in the array. If no majority exists, return -1.</span></span></p>\n <p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Expected Time Complexity:</strong> O(N). <strong>Expected Auxiliary Space:</strong> O(1).</span></span></p>\n <p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Constraints:</strong><br>1 ≤ N ≤ 10^7\n0 ≤ Ai ≤ 10^6</span></span></p>",
+    "companies": ["Flipkart", "Accolite", "Amazon", "Microsoft", "D-E-Shaw", "Google", "Nagarro", "Atlassian"]
+    }
+  

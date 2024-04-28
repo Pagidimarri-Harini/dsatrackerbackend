@@ -1,0 +1,9 @@
+{
+    "title": "Detect cycle in a directed graph",
+    "difficulty": "Medium",
+    "accuracy": "27.88%",
+    "submissions": "353K+",
+    "points": "4",
+    "problem": "<p>Given a Directed Graph with V vertices (Numbered from 0 to V-1) and E edges, check whether it contains any cycle or not.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<p>Input:</p>\n\n<p>Output: 1</p>\n\n<p>Explanation: 3 -> 3 is a cycle</p>\n\n<p><strong>Example 2:</strong></p>\n\n<p>Input:</p>\n\n<p>Output: 0</p>\n\n<p>Explanation: no cycle in the graph</p>\n\n<p>Your task:<br>You dont need to read input or print anything. Your task is to complete the function isCyclic() which takes the integer V denoting the number of vertices and adjacency list adj as input parameters and returns a boolean value denoting if the given directed graph contains a cycle or not.<br>In the adjacency list adj, element adj[i][j] represents an edge from i to j.</p>\n\n<p>Expected Time Complexity: O(V + E)<br>Expected Auxiliary Space: O(V)</p>\n\n<p>Constraints:<br>1 ≤ V, E ≤ 105</p>\n",
+    "companies": ["Flipkart", "Amazon", "Microsoft", "Samsung", "MakeMyTrip", "Oracle", "Goldman Sachs", "Adobe", "BankBazaar", "Rockstand"]
+    }  

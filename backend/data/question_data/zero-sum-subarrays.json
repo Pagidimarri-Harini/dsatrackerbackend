@@ -1,0 +1,9 @@
+{
+    "title": "Zero Sum Subarrays",
+    "difficulty": "Medium",
+    "accuracy": "51.49%",
+    "submissions": "123K+",
+    "points": "4",
+    "problem": "<p>You are given an array <code>arr[]</code> of size <code>n</code>. Find the total count of sub-arrays having their sum equal to 0.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong>\nn = 6\narr[] = {0,0,5,5,0,0}\n<strong>Output:</strong> 6\n<strong>Explanation:</strong> The 6 subarrays are [0], [0], [0], [0], [0,0], and [0,0].</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong>\nn = 10\narr[] = {6,-1,-3,4,-2,2,4,6,-12,-7}\n<strong>Output:</strong> 4\n<strong>Explanation:</strong> The 4 subarrays are [-1 -3 4], [-2 2], [2 4 6 -12], and [-1 -3 4 -2 2]</pre>\n\n<p><strong>Your Task:</strong><br>\nYou don't need to read input or print anything. Complete the function <code>findSubarray()</code> that takes the array <code>arr</code> and its size <code>n</code> as input parameters and returns the total number of sub-arrays with 0 sum.</p>\n\n<p><strong>Expected Time Complexity:</strong> O(n*log(n))<p><strong>Expected Auxiliary Space:</strong> O(n)</p>\n\n<p><strong>Constraints:</strong><br>\n1 ≤ n ≤ 10^6<br>\n-10^9 ≤ arr[ i ] ≤ 10^9</p>",
+    "companies": ["Amazon", "Microsoft", "OYO Rooms"]
+    }  

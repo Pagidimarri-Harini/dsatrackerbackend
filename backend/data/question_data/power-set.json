@@ -1,0 +1,10 @@
+{
+    "title": "Power Set",
+    "difficulty": "Medium",
+    "accuracy": "43.3%",
+    "submissions": "92K+",
+    "points": "4",
+    "problem": "<p>Given a string s of length n, find all the possible non-empty subsequences of the string s in lexicographically-sorted order.</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong>\ns = \"abc\"\n<strong>Output:</strong>\na ab abc ac b bc c\n<strong>Explanation:</strong>\nThere are a total 7 number of subsequences possible for the given string, and they are mentioned above in lexicographically sorted order.</pre>\n<p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong>\ns = \"aa\"\n<strong>Output:</strong>\na a aa\n<strong>Explanation:</strong>\nThere are a total 3 number of subsequences possible for the given string, and they are mentioned above in lexicographically sorted order.</pre>\n<p><strong>Your Task:</strong><br>You don't need to read input or print anything. Your task is to complete the function AllPossibleStrings() which takes a string s as the input parameter and returns a list of all possible subsequences (non-empty) that can be formed from s in lexicographically sorted order.</p>\n<p><strong>Expected Time Complexity:</strong> O(n*2^n)<br><strong>Expected Space Complexity:</strong> O(n*2^n)</p>\n<p><strong>Constraints:</strong><br>1 ≤ n ≤ 16<br>s constitutes of lower case english alphabets</p>",
+    "companies": ["Snapdeal"]
+  }
+  

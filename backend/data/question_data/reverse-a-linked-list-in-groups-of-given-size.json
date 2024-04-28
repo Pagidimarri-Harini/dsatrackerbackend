@@ -1,0 +1,23 @@
+{
+    "title": "Reverse a Linked List in groups of given size",
+    "difficulty": "Medium",
+    "accuracy": "57.08%",
+    "submissions": "198K+",
+    "points": "4",
+    "problem": "<p>Given a linked list of size N. The task is to reverse every k nodes (where k is an input to the function) in the linked list. If the number of nodes is not a multiple of k then left-out nodes, in the end, should be considered as a group and must be reversed (See Example 2 for clarification).</p>\n<p><strong>Example 1:</strong></p>\n<pre>Input:\nLinkedList: 1->2->2->4->5->6->7->8\nK = 4\nOutput: 4 2 2 1 8 7 6 5 \nExplanation: \nThe first 4 elements 1,2,2,4 are reversed first \nand then the next 4 elements 5,6,7,8. Hence, the \nresultant linked list is 4->2->2->1->8->7->6->5.</pre>\n<p><strong>Example 2:</strong></p>\n<pre>Input:\nLinkedList: 1->2->3->4->5\nK = 3\nOutput: 3 2 1 5 4 \nExplanation: \nThe first 3 elements are 1,2,3 are reversed \nfirst and then elements 4,5 are reversed.Hence, \nthe resultant linked list is 3->2->1->5->4.</pre>\n<p><strong>Your Task:</strong><br>You don't need to read input or print anything. Your task is to complete the function reverse() which should reverse the linked list in group of size k and return the head of the modified linked list.</p>\n<p><strong>Expected Time Complexity :</strong> O(N)<br><strong>Expected Auxilliary Space :</strong> O(1)</p>\n<p><strong>Constraints:</strong><br>1 ≤ N ≤ 105<br>1 ≤ k ≤ N</p>",
+    "companies": [
+      "Paytm",
+      "VMWare",
+      "Accolite",
+      "Amazon",
+      "Microsoft",
+      "Snapdeal",
+      "Hike",
+      "MakeMyTrip",
+      "Walmart",
+      "Goldman Sachs",
+      "Adobe",
+      "SAP Labs"
+    ]
+  }
+  

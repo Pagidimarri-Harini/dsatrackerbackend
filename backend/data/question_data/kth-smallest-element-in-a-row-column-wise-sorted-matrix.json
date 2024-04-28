@@ -1,0 +1,10 @@
+{
+    "title": "Kth element in Matrix",
+    "difficulty": "Medium",
+    "accuracy": "61.42%",
+    "submissions": "55K+",
+    "points": "4",
+    "problem": "<p>Given a N x N matrix, where every row and column is sorted in non-decreasing order. Find the kth smallest element in the matrix.</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong>\nN = 4\nmat[][] = {{16, 28, 60, 64},\n           {22, 41, 63, 91},\n           {27, 50, 87, 93},\n           {36, 78, 87, 94 }}\nK = 3\n<strong>Output:</strong> 27\n<strong>Explanation:</strong> 27 is the 3rd smallest element.</pre>\n<p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong>\nN = 4\nmat[][] = {{10, 20, 30, 40},\n           {15, 25, 35, 45},\n           {24, 29, 37, 48},\n           {32, 33, 39, 50}}\nK = 7\n<strong>Output:</strong> 30\n<strong>Explanation:</strong> 30 is the 7th smallest element.</pre>\n<p>Your Task:<br>You don't need to read input or print anything. Complete the function kthsmallest() which takes the mat, N and K as input parameters and returns the kth smallest element in the matrix.</p>\n<p>Expected Time Complexity: O(K*Log(N))</p>\n<p>Expected Auxiliary Space: O(N)</p>\n<p>Constraints:<br>1 <= N <= 50<br>1 <= mat[][] <= 10000<br>1 <= K <= N*N</p>",
+    "companies": []
+  }
+  

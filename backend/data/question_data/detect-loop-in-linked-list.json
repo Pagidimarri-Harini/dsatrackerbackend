@@ -1,0 +1,29 @@
+{
+    "title": "Detect Loop in linked list",
+    "difficulty": "Easy",
+    "accuracy": "43.49%",
+    "submissions": "409K+",
+    "points": "2",
+    "problem": "<p>Given a linked list of N nodes. The task is to check if the linked list has a loop. Linked list can contain self loop.</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong>\nN = 3\nvalue[] = {1,3,4}\nx(position at which tail is connected) = 2\n<strong>Output:</strong> True\n<strong>Explanation:</strong> In above test case N = 3.\nThe linked list with nodes N = 3 is\ngiven. Then value of x=2 is given which\nmeans last node is connected with xth\nnode of linked list. Therefore, there\nexists a loop.</pre>\n<p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong>\nN = 4\nvalue[] = {1,8,3,4}\nx = 0\n<strong>Output:</strong> False\n<strong>Explanation:</strong> For N = 4 ,x = 0 means\nthen lastNode->next = NULL, then\nthe Linked list does not contains\nany loop.</pre>\n<p><strong>Your Task:</strong><br>The task is to complete the function detectloop() which contains reference to the head as only argument.  This function should return true if linked list contains loop, else return false.</p>\n<p><strong>Expected Time Complexity:</strong> O(N)<br><strong>Expected Auxiliary Space:</strong> O(1)</p>",
+    "companies": [
+      "Paytm",
+      "VMWare",
+      "Accolite",
+      "Amazon",
+      "OYO Rooms",
+      "Samsung",
+      "Snapdeal",
+      "D-E-Shaw",
+      "Hike",
+      "MakeMyTrip",
+      "Walmart",
+      "MAQ Software",
+      "Adobe",
+      "SAP Labs",
+      "Qualcomm",
+      "Veritas",
+      "Mahindra Comviva",
+      "Lybrate"
+    ]
+  }
+  

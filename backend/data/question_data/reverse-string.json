@@ -1,0 +1,10 @@
+{
+    "title": "Reverse String",
+    "difficulty": "Basic",
+    "accuracy": "57.66%",
+    "submissions": "1.2M+",
+    "points": "1",
+    "problem": "<p>Write a function that reverses a string. The input string is given as an array of characters s.</p><p>You must do this by modifying the input array in-place with O(1) extra memory.</p><p>Example 1:</p><p>Input: s = [\"h\",\"e\",\"l\",\"l\",\"o\"] Output: [\"o\",\"l\",\"l\",\"e\",\"h\"]</p><p>Example 2:</p><p>Input: s = [\"H\",\"a\",\"n\",\"n\",\"a\",\"h\"] Output: [\"h\",\"a\",\"n\",\"n\",\"a\",\"H\"]</p><p>Constraints: 1 <= s.length <= 105 s[i] is a printable ascii character.</p>",
+    "companies":[]
+}
+  

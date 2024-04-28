@@ -1,0 +1,10 @@
+{
+    "title": "nCr",
+    "difficulty": "Medium",
+    "accuracy": "14.82%",
+    "submissions": "297K+",
+    "points": "4",
+    "problem": "<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Given two integers n and r, find nCr. Since the answer may be very large, calculate the answer modulo 109+7.</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 1:</strong></span></span></p>\n<pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input: n = 3, r = 2\nOutput: 3\nExplaination: 3C2 = 3.</strong></span></span></pre>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 2:</strong></span></span></p>\n<pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input: n = 2, r = 4\nOutput: 0\nExplaination: r is greater than n.</strong></span></span></pre>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Your Task:</strong><br>You do not need to take input or print anything. Your task is to complete the function nCr() which takes n and r as input parameters and returns nCr modulo 109+7.</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Expected Time Complexity:</strong> O(n*r)<br><strong>Expected Auxiliary Space:</strong> O(r)</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Constraints:</strong><br>1 ≤ n ≤ 1000<br>1 ≤ r ≤ 800</span></span></p>",
+    "companies": []
+  }
+  

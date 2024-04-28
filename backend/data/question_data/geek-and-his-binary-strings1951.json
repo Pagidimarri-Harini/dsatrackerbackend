@@ -1,0 +1,10 @@
+{
+    "title": "Geek and his Binary Strings",
+    "difficulty": "Easy",
+    "accuracy": "27.05%",
+    "submissions": "7K+",
+    "points": "2",
+    "problem": "<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Given an integer N, the task is to find the number of binary strings of size 2*N such that each string has exactly N 1's and each prefix of the string has more than or an equal number of 1's than 0's.</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 1:</strong></span></span></p>\n<pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input: </strong>N = 2\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> 1100, 1010 are two such strings of size 4 which have exactly two 1's in each.</span></span></pre>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 2:</strong></span></span></p>\n<pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input:</strong> N = 3\n<strong>Output:</strong> 5\n<strong>Explanation:</strong> 111000, 101100, 101010, 110010, 110100 are such 5 strings which have exactly three 1's in each.</span></span></pre>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Your Task:</strong><br>You don't need to read input or print anything. Complete the function prefixStrings() which takes N as input parameter and returns an integer value.</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Expected Time Complexity:</strong> O(N^2)<br><strong>Expected Auxiliary Space:</strong> O(|N|)</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Constraints:</strong><br>1 ≤ |N| ≤ 10^3</span></span></p>",
+    "companies": []
+  }
+  

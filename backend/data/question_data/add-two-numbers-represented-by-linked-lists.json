@@ -1,0 +1,10 @@
+{
+    "title": "Add two numbers represented by linked lists",
+    "difficulty": "Medium",
+    "accuracy": "34.52%",
+    "submissions": "233K+",
+    "points": "4",
+    "problem": "<p>Given two decimal numbers, num1 and num2, represented by linked lists of size n and m respectively. The task is to return a linked list that represents the sum of these two numbers.</p><p>For example, the number 190 will be represented by the linked list, 1->9->0->null, similarly 25 by 2->5->null. Sum of these two numbers is 190 + 25 = 215, which will be represented by 2->1->5->null. You are required to return the head of the linked list 2->1->5->null.</p><p>Note: There can be leading zeros in the input lists, but there should not be any leading zeros in the output list.</p><p><strong>Example 1:</strong></p><p><strong>Input:</strong><br>n = 2<br>num1 = 45 (4->5->null)<br>m = 3<br>num2 = 345 (3->4->5->null)<br><strong>Output:</strong><br>3->9->0->null<br><strong>Explanation:</strong><br>For the given two linked list (4 5) and (3 4 5), after adding the two linked list resultant linked list will be (3 9 0).</p><p><strong>Example 2:</strong></p><p><strong>Input:</strong><br>n = 4<br>num1 = 0063 (0->0->6->3->null)<br>m = 2<br>num2 = 07 (0->7->null)<br><strong>Output:</strong><br>7->0->null<br><strong>Explanation:</strong><br>For the given two linked list (0 0 6 3) and (0 7), after adding the two linked list resultant linked list will be (7 0).</p><p><strong>Your Task:</strong><br>The task is to complete the function addTwoLists() which has node reference of both the linked lists and returns the head of the sum list.</p><p><strong>Expected Time Complexity:</strong> O(n+m)<br><strong>Expected Auxiliary Space:</strong> O(max(n,m)) for the resultant list.</p>",
+    "companies": ["Flipkart", "Morgan Stanley", "Accolite", "Amazon", "Microsoft", "Snapdeal", "MakeMyTrip", "Qualcomm"]
+  }
+  

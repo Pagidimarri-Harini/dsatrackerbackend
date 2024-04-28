@@ -1,0 +1,9 @@
+{
+    "title": "Count total set bits",
+    "difficulty": "Medium",
+    "accuracy": "35.77%",
+    "submissions": "146K+",
+    "points": "4",
+    "problem": "<p>You are given a number N. Find the total count of set bits for all numbers from 1 to N(both inclusive).</p><p><strong>Example 1:</strong></p><p>Input: N = 4<br>Output: 5<br>Explanation:<br>For numbers from 1 to 4.<br>For 1: 0 0 1 = 1 set bits<br>For 2: 0 1 0 = 1 set bits<br>For 3: 0 1 1 = 2 set bits<br>For 4: 1 0 0 = 1 set bits<br>Therefore, the total set bits is 5.</p><p><strong>Example 2:</strong></p><p>Input: N = 17<br>Output: 35<br>Explanation: From numbers 1 to 17(both inclusive),the total number of set bits is 35.</p><p>Your Task: The task is to complete the function countSetBits() that takes n as a parameter and returns the count of all bits.</p><p>Expected Time Complexity: O(log N).Expected Auxiliary Space: O(1).</p><p>Constraints: 1 ≤ N ≤ 10^8</p>",
+    "companies":[]    
+}  

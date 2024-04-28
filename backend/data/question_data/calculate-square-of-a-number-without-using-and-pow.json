@@ -1,0 +1,10 @@
+{
+    "title": "Calculate square of a number without using *, / and pow()",
+    "difficulty": "Medium",
+    "accuracy": "72.58%",
+    "submissions": "38K+",
+    "points": "3",
+    "problem": "<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Given an integer n, calculate the square of a number without using *, / and pow(). </span></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Examples : </strong></span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Input: n = 5<br>Output: 25</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Input: 7<br>Output: 49</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Input: n = 12<br>Output: 144</span></span></p>",
+    "companies": []
+  }
+  

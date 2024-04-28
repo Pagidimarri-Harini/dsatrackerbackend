@@ -1,0 +1,10 @@
+{
+    "title": "Count and Say",
+    "difficulty": "Medium",
+    "accuracy": "37.85%",
+    "submissions": "189K+",
+    "points": "3",
+    "problem": "<p>The count-and-say sequence is a sequence of digit strings defined by the recursive formula:</p>\n\n<p>countAndSay(1) = \"1\"</p>\n\n<p>countAndSay(n) is the way you would \"say\" the digit string from countAndSay(n-1), which is then converted into a different digit string.</p>\n\n<p>To determine how you \"say\" a digit string, split it into the minimal number of substrings such that each substring contains exactly one unique digit. Then for each substring, say the number of digits, then say the digit. Finally, concatenate every said digit.</p>\n\n<p>For example, the saying and conversion for digit string \"3322251\":</p>\n\n<pre><code>countAndSay(1) = \"1\"\ncountAndSay(2) = say \"1\" = one 1 = \"11\"\ncountAndSay(3) = say \"11\" = two 1's = \"21\"\ncountAndSay(4) = say \"21\" = one 2 + one 1 = \"12\" + \"11\" = \"1211\"</code></pre>\n\n<p>Given a positive integer n, return the nth term of the count-and-say sequence.</p>\n\n<h3>Example 1:</h3>\n\n<pre><code>Input: n = 1\nOutput: \"1\"\nExplanation: This is the base case.</code></pre>\n\n<h3>Example 2:</h3>\n\n<pre><code>Input: n = 4\nOutput: \"1211\"\nExplanation:\ncountAndSay(1) = \"1\"\ncountAndSay(2) = say \"1\" = one 1 = \"11\"\ncountAndSay(3) = say \"11\" = two 1's = \"21\"\ncountAndSay(4) = say \"21\" = one 2 + one 1 = \"12\" + \"11\" = \"1211\"</code></pre>",
+    "companies":[]
+}
+  

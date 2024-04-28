@@ -1,0 +1,10 @@
+{
+    "title": "Remove duplicates from an unsorted linked list",
+    "difficulty": "Easy",
+    "accuracy": "45.95%",
+    "submissions": "223K+",
+    "points": "2",
+    "problem": "<p>Given an unsorted linked list of N nodes. The task is to remove duplicate elements from this unsorted Linked List. When a value appears in multiple nodes, the node which appeared first should be kept, all others duplicates are to be removed.</p><p><strong>Example 1:</strong></p><p><strong>Input:</strong><br>N = 4<br>value[] = {5,2,2,4}<br><strong>Output:</strong> 5 2 4<br><strong>Explanation:</strong> Given linked list elements are 5-&gt;2-&gt;2-&gt;4, in which 2 is repeated only. So, we will delete the extra repeated elements 2 from the linked list and the resultant linked list will contain 5-&gt;2-&gt;4</p><p><strong>Example 2:</strong></p><p><strong>Input:</strong><br>N = 5<br>value[] = {2,2,2,2,2}<br><strong>Output:</strong> 2<br><strong>Explanation:</strong> Given linked list elements are 2-&gt;2-&gt;2-&gt;2-&gt;2, in which 2 is repeated. So, we will delete the extra repeated elements 2 from the linked list and the resultant linked list will contain only 2.</p><p><strong>Your Task:</strong> You have to complete the method removeDuplicates() which takes 1 argument: the head of the linked list.  Your function should return a pointer to a linked list with no duplicate element.<br><br><strong>Expected Time Complexity:</strong> O(N)<br><strong>Expected Auxiliary Space:</strong> O(N)</p><p><strong>Constraints:</strong><br>1 ≤ size of linked lists ≤ 10^6<br>0 ≤ numbers in list ≤ 10^4</p>",
+    "companies": ["Amazon", "Intuit"]
+  }
+  

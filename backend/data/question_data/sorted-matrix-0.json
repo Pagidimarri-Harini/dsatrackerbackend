@@ -1,0 +1,10 @@
+{
+    "title": "Sorted Matrix",
+    "difficulty": "Basic",
+    "accuracy": "63.49%",
+    "submissions": "51K+",
+    "points": "1",
+    "problem": "<p>Given an NxN matrix Mat. Sort all elements of the matrix.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong>\nN=4\nMat=[[10,20,30,40],\n[15,25,35,45],\n[27,29,37,48],\n[32,33,39,50]]\n<strong>Output:</strong>\n<code>10 15 20 25\n27 29 30 32\n33 35 37 39\n40 45 48 50</code></pre>\n\n<p><strong>Explanation:</strong><br />\nSorting the matrix gives this result.</p>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong>\nN=3\nMat=[[1,5,3],[2,8,7],[4,6,9]]\n<strong>Output:</strong>\n<code>1 2 3\n4 5 6\n7 8 9</code></pre>\n\n<p><strong>Explanation:</strong><br />\nSorting the matrix gives this result.</p>\n\n<p><strong>Your Task:</strong><br />\nYou don't need to read input or print anything. Your task is to complete the function <strong>sortedMatrix()</strong> which takes the integer N and the matrix Mat as input parameters and returns the sorted matrix.</p>\n\n<p><strong>Expected Time Complexity:</strong> O(N^2LogN)<br />\n<strong>Expected Auxillary Space:</strong> O(N^2)</p>\n\n<p><strong>Constraints:</strong><br />\n1 &lt;= N &lt;= 1000<br />\n1 &lt;= Mat[i][j] &lt;= 10^5</p>",
+    "companies":[]
+  }
+  

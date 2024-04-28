@@ -1,0 +1,9 @@
+{
+    "title": "Painting the Fence",
+    "difficulty": "Medium",
+    "accuracy": "32.89%",
+    "submissions": "102K+",
+    "points": "4",
+    "problem": "<p>Given a fence with n posts and k colors, find out the number of ways of painting the fence so that not more than two consecutive posts have the same colors. Since the answer can be large return it modulo 10^9 + 7.</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong>\nn = 3\nk = 2\n<strong>Output:</strong> 6\n<strong>Explanation:</strong>\nLet the 2 colours be 'R' and 'B'.\nWe have following possible combinations:\n1. RRB\n2. RBR\n3. RBB\n4. BRR\n5. BRB\n6. BBR</pre>\n<p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong>\nn = 2\nk = 4\n<strong>Output:</strong> 16\n<strong>Explanation:</strong>\nAfter coloring first post with 4 possible combinations, you can still color next posts with all 4 colors. Total possible combinations will be 4x4=16</pre>\n<p><strong>Your Task:</strong><br>Since, this is a function problem. You don't need to take any input or print anything, as it is already accomplished by the driver code. You just need to complete the function countWays() that takes n and k as parameters and returns the number of ways in which the fence can be painted (modulo 10^9 + 7).</p>\n<p><strong>Expected Time Complexity:</strong> O(N).</p>\n<p><strong>Expected Auxiliary Space:</strong> O(N).</p>\n<p><strong>Constraints:</strong><br>1 ≤ N ≤ 10^5<br>1 ≤ K ≤ 10^5</p>",
+    "companies": []
+    }  

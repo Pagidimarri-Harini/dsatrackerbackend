@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Detect cycle in an undirected graph",
+        "difficulty": "Medium",
+        "accuracy": "30.13%",
+        "submissions": "377K+",
+        "points": "4",
+        "problem": "<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Given an undirected graph with V vertices labelled from 0 to V-1 and E edges, check whether it contains any cycle or not. Graph is in the form of adjacency list where adj[i] contains all the nodes ith node is having edge with.</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 1:</strong></span></span></p>\n<pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input:</strong><br>V = 5, E = 5<br>adj = {{1}, {0, 2, 4}, {1, 3}, {2, 4}, {1, 3}}",
+        "companies": ["Flipkart", "Amazon", "Microsoft", "Samsung", "MakeMyTrip", "Oracle", "Adobe"]
+    }
+]

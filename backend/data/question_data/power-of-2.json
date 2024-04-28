@@ -1,0 +1,9 @@
+{
+    "title": "Power of 2",
+    "difficulty": "Basic",
+    "accuracy": "32.58%",
+    "submissions": "369K+",
+    "points": "1",
+    "problem": "<p>Given a non-negative integer N. The task is to check if N is a power of 2. More formally, check if N can be expressed as 2x for some integer x. Return true if N is power of 2 else return false.</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input: </strong>\nN = 8\n<strong>Output: </strong>\nYES\n<strong>Explanation:</strong>\n8 is equal to 2 raised to 3 (23 = 8).</pre>\n<p><strong>Example 2:</strong></p>\n<pre><strong>Input: </strong>\nN = 98\n<strong>Output: </strong>\nNO\n<strong>Explanation: </strong>\n98 cannot be obtained by any power of 2.</pre>\n<p><strong>Your Task:</strong>Your task is to complete the function isPowerofTwo() which takes n as a parameter and returns true or false by checking if the given number can be represented as a power of two or not.</p>\n<p><strong>Expected Time Complexity:</strong>O(log N).<p><strong>Expected Auxiliary Space:</strong>O(1).</p>\n<p><strong>Constraints:</strong><br>0 ≤ N < LLONG_MAX</p>",
+    "companies": ["Adobe"]
+  }  

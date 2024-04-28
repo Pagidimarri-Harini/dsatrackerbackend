@@ -1,0 +1,10 @@
+{
+    "title": "Row with max 1s",
+    "difficulty": "Medium",
+    "accuracy": "33.09%",
+    "submissions": "238K+",
+    "points": "4",
+    "problem": "<p>Given a boolean 2D array of n x m dimensions, consisting of only 1's and 0's, where each row is sorted. Find the 0-based index of the first row that has the maximum number of 1's.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input: </strong>\n<code>N = 4 , M = 4\nArr[][] = {{0, 1, 1, 1},\n           {0, 0, 1, 1},\n           {1, 1, 1, 1},\n           {0, 0, 0, 0}}\n</code><strong>Output:</strong> 2\n<strong>Explanation:</strong> Row 2 contains 4 1's (0-based indexing).</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input: </strong>\n<code>N = 2, M = 2\nArr[][] = {{0, 0}, {1, 1}}\n</code><strong>Output:</strong> 1\n<strong>Explanation:</strong> Row 1 contains 2 1's (0-based indexing).</pre>\n\n<p>Your Task:  <br />You don't need to read input or print anything. Your task is to complete the function <strong>rowWithMax1s()</strong> which takes the array of booleans arr[][], n and m as input parameters and returns the 0-based index of the first row that has the most number of 1s. If no such row exists, return -1.</p>\n\n<p><strong>Expected Time Complexity:</strong> O(N+M)<br /><strong>Expected Auxiliary Space:</strong> O(1)</p>\n\n<p><strong>Constraints:</strong><br />1 ≤ N, M ≤ 10<sup>3</sup><br />0 ≤ Arr[i][j] ≤ 1</p>",
+    "companies": []
+  }
+  

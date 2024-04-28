@@ -1,0 +1,10 @@
+{
+    "title": "Intersection of two sorted Linked lists",
+    "difficulty": "Easy",
+    "accuracy": "48.63%",
+    "submissions": "134K+",
+    "points": "2",
+    "problem": "<p>Given two linked lists sorted in increasing order, create a new linked list representing the intersection of the two linked lists. The new linked list should be made without changing the original lists.</p>\n<p><strong>Example 1:</strong></p>\n<pre><strong>Input:</strong>\nLinkedList1 = 1->2->3->4->6\nLinkedList2 = 2->4->6->8\n<strong>Output:</strong> 2 4 6\n<strong>Explanation:</strong> For the given two linked list, 2, 4, and 6 are the elements in the intersection.</pre>\n<p><strong>Example 2:</strong></p>\n<pre><strong>Input:</strong>\nLinkedList1 = 10->20->40->50\nLinkedList2 = 15->40\n<strong>Output:</strong> 40</pre>\n<p><strong>Your Task:</strong><br>You don't have to take any input or print anything. Your task is to complete the function <code>findIntersection()</code>, which will take the head of both of the linked lists as input and should find the intersection of two linked lists and add all the elements in intersection to the third linked list and return the head of the third linked list.</p>\n<p><strong>Expected Time Complexity:</strong> O(n+m)<br><strong>Expected Auxiliary Space:</strong> O(n+m)<br>Note: n, m are the size of the respective linked lists.</p>",
+    "companies": ["Amazon", "Microsoft", "D-E-Shaw", "Zopper"]
+  }
+  

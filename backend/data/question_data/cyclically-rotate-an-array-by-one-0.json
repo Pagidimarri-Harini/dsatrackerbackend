@@ -1,0 +1,10 @@
+{
+    "title": "Cyclically rotate an array by one",
+    "difficulty": "Basic",
+    "accuracy": "69.6%",
+    "submissions": "246K+",
+    "points": "1",
+    "problem": "<p><span style=\"font-size:18px\">Given an array,&nbsp;rotate the&nbsp;array by one position in clock-wise direction.</span><br>\n&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>Example 1:</strong></span></p>\n\n<pre><span style=\"font-size:18px\"><strong>Input:</strong>\nN = 5\nA[] = {1, 2, 3, 4, 5}\n<strong>Output:</strong>\n5 1 2 3 4</span></pre>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>Example 2:</strong></span></p>\n\n<pre><span style=\"font-size:18px\"><strong>Input:</strong>\nN = 8\nA[] = {9, 8, 7, 6, 4, 2, 1, 3}\n<strong>Output:</strong>\n3 9 8 7 6 4 2 1</span></pre>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>Your Task:&nbsp;&nbsp;</strong><br>\nYou don't need to read input or print anything. Your task is to complete the function <strong>rotate()</strong>&nbsp;which takes the array <strong>A[]</strong> and its size <strong>N </strong>as inputs and modify the array in place.</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>Expected Time Complexity:</strong> O(N)<br>\n<strong>Expected Auxiliary Space:</strong> O(1)</span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:18px\"><strong>Constraints:</strong><br>\n1&lt;=N&lt;=10<sup>5</sup><br>\n0&lt;=a[i]&lt;=10<sup>5</sup></span></p>",
+    "companies":["Amazon","Facebook"]
+}
+  

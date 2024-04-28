@@ -1,0 +1,10 @@
+{
+    "title": "Remove duplicate element from sorted Linked List",
+    "difficulty": "Easy",
+    "accuracy": "49.37%",
+    "submissions": "276K+",
+    "points": "2",
+    "problem": "<p>Given a singly linked list consisting of N nodes. The task is to remove duplicates (nodes with duplicate values) from the given list (if exists).</p><p>Note: Try not to use extra space. The nodes are arranged in a sorted way.</p><p><strong>Example 1:</strong></p><pre><strong>Input:</strong><br>LinkedList: 2->2->4->5<br><strong>Output:</strong> 2 4 5<br><strong>Explanation:</strong> In the given linked list 2 ->2 -> 4-> 5, only 2 occurs more than 1 time. So we need to remove it once.</pre><p><strong>Example 2:</strong></p><pre><strong>Input:</strong><br>LinkedList: 2->2->2->2->2<br><strong>Output:</strong> 2<br><strong>Explanation:</strong> In the given linked list 2 ->2 ->2 ->2 ->2, 2 is the only element and is repeated 5 times. So we need to remove any four 2.</pre><p><strong>Your Task:</strong><br>The task is to complete the function removeDuplicates() which takes the head of input linked list as input. The function should remove the duplicates from linked list and return the head of the linkedlist.</p><p><strong>Expected Time Complexity:</strong> O(N)<br><strong>Expected Auxilliary Space:</strong> O(1)</p>",
+    "companies": ["Microsoft", "OYO Rooms", "Oracle", "Visa", "Adobe", "Myntra"]
+  }
+  

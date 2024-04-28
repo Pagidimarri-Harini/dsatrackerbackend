@@ -1,0 +1,9 @@
+{
+  "title": "Reverse Linked List",
+  "difficulty": "Easy",
+  "accuracy": "56.24%",
+  "submissions": "108K+",
+  "points": "2",
+  "problem": "<p>Given the head of a singly linked list, reverse the list, and return the reversed list.</p><p><strong>Example 1:</strong></p><pre><strong>Input:</strong> head = [1,2,3,4,5]<br><strong>Output:</strong> [5,4,3,2,1]</pre><p><strong>Example 2:</strong></p><pre><strong>Input:</strong> head = [1,2]<br><strong>Output:</strong> [2,1]</pre><p><strong>Example 3:</strong></p><pre><strong>Input:</strong> head = []<br><strong>Output:</strong> []</pre><p><strong>Constraints:</strong></p><ul><li>The number of nodes in the list is in the range [0, 5000].</li><li>-5000 ≤ Node.val ≤ 5000</li></ul>",
+  "companies": []
+  }

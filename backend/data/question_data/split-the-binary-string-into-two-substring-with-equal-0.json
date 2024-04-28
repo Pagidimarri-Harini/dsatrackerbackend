@@ -1,0 +1,10 @@
+{
+    "title": "Split the binary string into substrings with equal number of 0s and 1s",
+    "difficulty": "Medium",
+    "accuracy": "65.78%",
+    "submissions": "38K+",
+    "points": "3",
+    "problem": "<p>Given a binary string <strong>str</strong> of length <strong>N</strong>, the task is to find the maximum count of consecutive substrings <strong>str</strong> can be divided into such that all the substrings are balanced i.e. they have an equal number of 0s and 1s. If it is not possible to split <strong>str</strong> satisfying the conditions, then print -1.</p>\n<p><strong>Example:</strong></p>\n<p><strong>Input:</strong> str = “0100110101”</p>\n<p><strong>Output:</strong> 4</p>\n<p><strong>Explanation:</strong> The required substrings are “01”, “0011”, “01”, and “01”.</p>",
+    "companies":[]
+}
+  

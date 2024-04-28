@@ -1,0 +1,10 @@
+{
+    "title": "Median in a row-wise sorted Matrix",
+    "difficulty": "Hard",
+    "accuracy": "55.05%",
+    "submissions": "92K+",
+    "points": "8",
+    "problem": "<p>Given a row-wise sorted matrix of size R*C where R and C are always odd, find the median of the matrix.</p>\n\n<p><strong>Example 1:</strong></p>\n\n<pre><strong>Input:</strong>\nR = 3, C = 3\nM = [[1, 3, 5], \n     [2, 6, 9], \n     [3, 6, 9]]\n<strong>Output:</strong> 5\n<strong>Explanation:</strong> Sorting matrix elements gives us {1,2,3,3,5,6,6,9,9}. Hence, 5 is median.</pre>\n\n<p><strong>Example 2:</strong></p>\n\n<pre><strong>Input:</strong>\nR = 3, C = 1\nM = [[1], [2], [3]]\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> Sorting matrix elements gives us {1,2,3}. Hence, 2 is median.</pre>\n\n<p><strong>Your Task:</strong>  \nYou don't need to read input or print anything. Your task is to complete the function median() which takes the integers R and C along with the 2D matrix as input parameters and returns the median of the matrix.</p>\n\n<p><strong>Expected Time Complexity:</strong> O(32 * R * log(C))<br /><strong>Expected Auxiliary Space:</strong> O(1)</p>\n\n<p><strong>Constraints:</strong><br />1 &lt;= R, C &lt;= 400<br />1 &lt;= matrix[i][j] &lt;= 2000</p>",
+    "companies": []
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "accuracy": "",
+    "submissions": "",
+    "points": "2",
+    "problem": "<p>Given a string <strong>S</strong>, find the longest palindromic substring in <strong>S</strong>. Substring of string <strong>S</strong>: <strong>S[ i . . . . j ]</strong> where <strong>0 ≤ i ≤ j < len(S)</strong>. Palindrome string: A string that reads the same backward. More formally, <strong>S</strong> is a palindrome if <strong>reverse(S) = S</strong>. In case of conflict, return the substring which occurs first (with the least starting index).</p><p><strong>Example 1:</strong></p><p><strong>Input:</strong><br>S = \"aaaabbaa\"</p><p><strong>Output:</strong> aabbaa</p><p><strong>Explanation:</strong> The longest Palindromic substring is \"aabbaa\".</p><p><strong>Example 2:</strong></p><p><strong>Input:</strong><br>S = \"abc\"</p><p><strong>Output:</strong> a</p><p><strong>Explanation:</strong> \"a\", \"b\", and \"c\" are the longest palindromes with the same length. The result is the one with the least starting index.</p><p><strong>Your Task:</strong><br>You don't need to read input or print anything. Your task is to complete the function <code>longestPalin()</code> which takes the string <strong>S</strong> as input and returns the longest palindromic substring of <strong>S</strong>.</p><p><strong>Expected Time Complexity:</strong> O(|S|^2).<strong>Expected Auxiliary Space:</strong> O(1).</p><p><strong>Constraints:</strong><br>1 ≤ |S| ≤ 10^3</p>",
+    "companies": ["Zoho", "Accolite", "Amazon", "Microsoft", "Samsung", "MakeMyTrip", "Visa", "Walmart", "Google", "Qualcomm", "Groupon"]
+}  

@@ -1,0 +1,10 @@
+{
+    "title": "Bit Difference",
+    "difficulty": "Basic",
+    "accuracy": "75.23%",
+    "submissions": "93K+",
+    "points": "1",
+    "problem": "<p>You are given two numbers A and B. The task is to count the number of bits needed to be flipped to convert A to B.</p><p><strong>Example 1:</strong></p><pre><code>Input: A = 10, B = 20\nOutput: 4\nExplanation:\nA  = 01010\nB  = 10100\nAs we can see, the bits of A that need \nto be flipped are 01010. If we flip \nthese bits, we get 10100, which is B.\n</code></pre><p><strong>Example 2:</strong></p><pre><code>Input: A = 20, B = 25\nOutput: 3\nExplanation:\nA  = 10100\nB  = 11001\nAs we can see, the bits of A that need \nto be flipped are 10100. If we flip \nthese bits, we get 11001, which is B.\n</code></pre><p><strong>Your Task:</strong> The task is to complete the function countBitsFlip() that takes A and B as parameters and returns the count of the number of bits to be flipped to convert A to B.<br><strong>Expected Time Complexity:</strong> O(log N).<strong>Expected Auxiliary Space:</strong> O(1).</p><p><strong>Constraints:</strong> 1 ≤ A, B ≤ 10^6</p>",
+    "companies": [
+    ]
+    }  

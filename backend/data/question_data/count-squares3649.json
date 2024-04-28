@@ -1,0 +1,10 @@
+{
+    "title": "Count Squares",
+    "difficulty": "Basic",
+    "accuracy": "41.44%",
+    "submissions": "129K+",
+    "points": "1",
+    "problem": "<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\">Consider a sample space S consisting of all perfect squares starting from 1, 4, 9 and so on. You are given a number N, you have to output the number of integers less than N in the sample space S.</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 1:</strong></span></span></p>\n<pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input :</strong>\nN = 9\n<strong>Output:</strong>\n2\n<strong>Explanation:</strong>\n1 and 4 are the only Perfect Squares less than 9. So, the Output is 2.</span></span></pre>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Example 2:</strong></span></span></p>\n<pre><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Input :</strong>\nN = 3\n<strong>Output:</strong>\n1\n<strong>Explanation:</strong>\n1 is the only Perfect Square less than 3. So, the Output is 1.</span></span></pre>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Your Task:</strong><br>You don't need to read input or print anything. Your task is to complete the function countSquares() which takes an Integer N as input and returns the answer.</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Expected Time Complexity:</strong> O(sqrt(N))</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Expected Auxiliary Space:</strong> O(1)</span></span></p>\n<p><span style=\"font-family: arial,helvetica,sans-serif;\"><span style=\"font-size: 18px;\"><strong>Constraints:</strong><br>1 ≤ N ≤ 10^8</span></span></p>",
+    "companies": ["Accolite", "Snapdeal", "Ola Cabs"]
+  }
+  
